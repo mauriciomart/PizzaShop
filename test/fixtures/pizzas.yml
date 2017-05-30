@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  toppings: MyText
+  sauce: MyString
+  crust: MyString
+  cost: 1
+  image: MyString
+
+two:
+  name: MyString
+  toppings: MyText
+  sauce: MyString
+  crust: MyString
+  cost: 1
+  image: MyString
